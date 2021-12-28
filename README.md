@@ -1,3 +1,9 @@
+
+[![](https://poggit.pmmp.io/shield.state/Anti-Advertisement)](https://poggit.pmmp.io/p/Anti-Advertisement)
+<a href="https://poggit.pmmp.io/p/Anti-Advertisement"><img src="https://poggit.pmmp.io/shield.state/Anti-Advertisement"></a>
+
+[![](https://poggit.pmmp.io/shield.api/Anti-Advertisement)](https://poggit.pmmp.io/p/Anti-Advertisement)
+<a href="https://poggit.pmmp.io/p/Anti-Advertisement"><img src="https://poggit.pmmp.io/shield.api/Anti-Advertisement"></a>
 # Anti-Advertisement
 - English: A plugin that helps you block ads in your server. Easy to edit.
 - Vietnamese: Một plugin giúp bạn chặn quảng cáo trong máy chủ của mình. Dễ dàng chỉnh sửa.
